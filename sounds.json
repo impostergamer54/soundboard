@@ -1,14 +1,54 @@
 {
   "sounds": [
     {
-      "name": "NWord",
+      "name": "London On The Track",
       "color": "#339900",
-      "mp3": "sounds/N.mp3"
+      "mp3": "sounds/LondonOnDaTrack.mp3"
     },
      {
       "name": "Magnolia",
       "color": "#339900",
       "mp3": "sounds/magnolia.mp3"
+    },
+     {
+      "name": "bnyx",
+      "color": "#339900",
+      "mp3": "sounds/bnyx.mp3"
+    },
+     {
+      "name": "f1lthy",
+      "color": "#339900",
+      "mp3": "sounds/f1lthy.mp3"
+    },
+     {
+      "name": "That be maaly raw",
+      "color": "#339900",
+      "mp3": "sounds/maalyraw.mp3"
+    },
+     {
+      "name": "metro boomin make it boom",
+      "color": "#339900",
+      "mp3": "sounds/metroboominmakeitboom.mp3"
+    },
+     {
+      "name": "metro boomin want some more",
+      "color": "#339900",
+      "mp3": "sounds/metrowantmore.mp3"
+    },
+     {
+      "name": "yo pierre",
+      "color": "#339900"
+       "mp3": "sounds/pierre.mp3"
+    },
+     {
+      "name": "if young metro dont trust u ima shoot u",
+      "color": "#339900"
+       "mp3": "sounds/youngmetro.mp3"
+    },
+    {
+      "name": "NWord",
+      "color": "#339900",
+      "mp3": "sounds/N.mp3"
     }
     ]
 }
